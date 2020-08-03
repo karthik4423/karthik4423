@@ -1,5 +1,7 @@
 ### Hello World!
 
+![HitCount](http://hits.dwyl.com/karthik4423/karthik4423.svg)
+
 I'm Karthik Raj, Software Development Engineer at Good Methods Global. \
 This GitHub profile is the collection of the different coding projects and ideas that I try to implement outside of work, out of my interest.\
 Most repos that you'll see here are just very small implementations of things that I learn on my own, from YouTube or other sources.\
