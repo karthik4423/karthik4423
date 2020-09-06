@@ -12,7 +12,7 @@ I'll update a list of fully functional projects as and when I complete them.
 Let's Chat!\
 <a  target="_blank" href="https://twitter.com/avgsavg"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png"></a>
 <a href="https://www.linkedin.com/in/karthikraj3/" target="_blank"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png"></a>
-<a href="mailto:karthikraj4423@gmail.com" target="_blank"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-48x48.png"></a>
+<a href="mailto:karthikraj4423@gmail.com" target="_blank"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-48x48.png" style="height:20px;width:20px;"></a>
 
 [![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=karthik4423&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!--
