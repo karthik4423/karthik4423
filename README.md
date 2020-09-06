@@ -14,7 +14,11 @@ Let's Chat!\
 <a href="https://www.linkedin.com/in/karthikraj3/" target="_blank"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png"></a>
 <a href="mailto:karthikraj4423@gmail.com" target="_blank"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-48x48.png" style="height:20px;width:20px;"></a>
 
-[![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=karthik4423&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=karthik4423&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik4423&layout=compact&theme=radical" />
+</a>
 <!--
 **karthik4423/karthik4423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
