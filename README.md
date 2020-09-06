@@ -7,7 +7,7 @@ This GitHub profile is the collection of the different coding projects and ideas
 Most repos that you'll see here are just very small implementations of things that I learn on my own, from YouTube or other sources.\
 I'll update a list of fully functional projects as and when I complete them.
 
-- 🌱 I’m currently learning Front end Frameworks - Angular, React
+- 🌱 I’m currently learning the following Front end Frameworks - Angular, React
 
 Let's Chat!\
 <a  target="_blank" href="https://twitter.com/avgsavg"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png"></a>
