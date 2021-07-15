@@ -1,6 +1,6 @@
 ### Hello World!
 
-![HitCount](http://hits.dwyl.com/karthik4423/karthik4423.svg)
+<!-- ![HitCount](http://hits.dwyl.com/karthik4423/karthik4423.svg) -->
 
 I'm Karthik Raj, Software Development Engineer at Springworks \
 This GitHub profile is the collection of the different coding projects and ideas that I try to implement outside of work, out of my interest.\
